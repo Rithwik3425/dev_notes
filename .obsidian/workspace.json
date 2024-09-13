@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "438cc937cd790921",
+    "type": "split",
+    "children": [
+      {
+        "id": "c66ca183eb8ff54c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "550120506ed04345",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "99884d23e423f428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TECH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4740d06a9294147",
+    "type": "split",
+    "children": [
+      {
+        "id": "32bedd8cb679863e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e2e1beed12174dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "ca486c669b547f26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47cd8091b7e71a25",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "294dd954d499071a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab1d485a9a18eac9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cd4343f1fb73c56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TECH.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1331808fd9e0a49d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TECH.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e05db496697198b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "75c7ababd0699670",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TECH.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "99884d23e423f428",
+  "lastOpenFiles": [
+    "Rust Projects.md",
+    "React_JS_Notes/React Redux.md",
+    "React_JS_Notes/REACT JS.md",
+    "WP_External.md",
+    "DBMS_External.md",
+    "Pasted image 20240424124913.png",
+    "NEXT_JS/Next_JS.md",
+    "NEXT_JS/Pasted image 20240418172051.png",
+    "NEXT_JS/Next_JS Server vs client components.md",
+    "NEXT_JS/Next_JS Routing.md",
+    "NEXT_JS/Pasted image 20240411091803.png",
+    "NEXT_JS/Pasted image 20240411090057.png",
+    "NEXT_JS/Pasted image 20240411085300.png",
+    "NEXT_JS/Pasted image 20240411085003.png",
+    "NEXT_JS/Next_JS Components.md",
+    "NEXT_JS/Pasted image 20240411084505.png",
+    "TECH.md",
+    "NEXT_JS/Pasted image 20240410223007.png",
+    "NEXT_JS/Screenshot 2024-04-10 205742.png",
+    "NEXT_JS/Screenshot 2024-04-10 205604.png",
+    "Flutter_Notes/Flutter_for_loop.md",
+    "NEXT_JS",
+    "Flutter_Notes/Flutter.md",
+    "Flutter_Notes/Flutter_Understanding_Map.md",
+    "Flutter_Notes/Flutter_Map_function.md",
+    "Flutter_Notes/Flutter_Conditional_statements.md",
+    "Flutter_Notes/Flutter(Stateful) Widget Lifecycle.md",
+    "Flutter_Notes/Flutter_StateFulWidgetsExample.md",
+    "Flutter_Notes/Flutter_firstProgam.md",
+    "Flutter_Notes/Flutter_statelessVSstateful_.md",
+    "Flutter_Notes/Flutter_Types.md",
+    "Flutter_Notes/Flutter_Widgets.md",
+    "Flutter_Notes/Flutter_Appworking.md",
+    "Flutter_Notes",
+    "React_JS_Notes/React Query.md",
+    "React_JS_Notes/React Redux ToolKit.md",
+    "React_JS_Notes/React Redux MiddleWare.md",
+    "React_JS_Notes/React useMemoanduseCallback.md",
+    "React_JS_Notes",
+    "DBMS-compressed.zip",
+    "DBMS.zip",
+    "DBMS/UNIT_2",
+    "DBMS/UNIT_1",
+    "DBMS",
+    "SKILLS/FireBase",
+    "SKILLS/BACKEND",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

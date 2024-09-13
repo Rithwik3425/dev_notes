@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "file:React",
+      "color": {
+        "a": 1,
+        "rgb": 58613
+      }
+    },
+    {
+      "query": "TECH",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "Flutter",
+      "color": {
+        "a": 1,
+        "rgb": 15794421
+      }
+    },
+    {
+      "query": "Next_js",
+      "color": {
+        "a": 1,
+        "rgb": 16579836
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.3,
+  "nodeSizeMultiplier": 0.777442827442827,
+  "lineSizeMultiplier": 2.28513513513514,
+  "collapse-forces": true,
+  "centerStrength": 1,
+  "repelStrength": 7.75467775467775,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 1.0074702521733705,
+  "close": true
+}
